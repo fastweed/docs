@@ -4,7 +4,7 @@ The Fastweed Marketplace is a free platform for Vendors to advertise and sell th
 
 ## How to Buy
 
-All transactions placed on the Fastweed Marketplace are currently completed using a Cash on Delivery or Store Credit payment method. Therefore, all transactions are settled between the Vendor and the Customer. Vendors and Customers are responsible for complying with any and all regulations themselves. Fastweed takes no responsibility for dealings between Vendors and Customers. 
+
 
 Deal locally, face-to-face — follow this one rule and avoid 99% of scam attempts. More information on personal safety and scams.
 
