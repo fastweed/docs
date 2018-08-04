@@ -23,7 +23,7 @@ There are multiple ways to find products:
 
 ## Store Pickup or Local Delivery
 
-Vendors offer their products for Store Pickup and/or for Local Delivery. When browsing category and search pages, you are able to filter the results to show only the products that are available for store pickup or local delivery, whatever you prefer. Both options are displayed by default of course. On the product, cart, and checkout pages, you will be able to see which products are available for store pickup and/or for local delivery as well.
+Vendors offer their products for Store Pickup and/or for Local Delivery. When browsing category and search pages, you are able to filter results to show only the products that are available for store pickup or local delivery, whatever you prefer. Both options are displayed by default of course. On the product, cart, and checkout pages, you will be able to see which products are available for store pickup and/or for local delivery as well.
 
 ## Medical or Recreational
 
@@ -43,9 +43,9 @@ After you have completed your order, you can leave feedback about the order and/
 
 ## User Guides
 
-##### [Vendor Documentation][vendor-doc]
+#### [Vendor Documentation][vendor-doc]
 * Use the [Vendor Documentation][vendor-doc] if you would like to register as a vendor to sell your products on the Fastweed Marketplace.
-##### [Customer Documentation][customer-doc]
+#### [Customer Documentation][customer-doc]
 * Use the [Customer Documentation][customer-doc] for more information on how to search for products and place orders.
 
 ## Questions?
