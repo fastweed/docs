@@ -23,11 +23,11 @@ There are multiple ways to find products:
 
 ## Store Pickup or Local Delivery
 
-Vendors in the US offer their products by Store Pickup and/or Local Delivery. When browsing the category and search pages, you can filter products to show only the products that are available for store pickup or local delivery, whatever you prefer. Both options show by default of course. On the product, cart, and checkout pages, you will be able to see which products are available for store pickup and/or for local delivery by the vendors as well.
+Vendors offer their products for Store Pickup and/or for Local Delivery. When browsing category and search pages, you are able to filter the results to show only the products that are available for store pickup or local delivery, whatever you prefer. Both options are displayed by default of course. On the product, cart, and checkout pages, you will be able to see which products are available for store pickup and/or for local delivery as well.
 
 ## Medical or Recreational
 
-You can also filter which products are available for medical patients and for recreational patients.
+You can also filter products based on which products are available for medical patients and for recreational patients.
 
 ## Same Product, Different Sellers
 
